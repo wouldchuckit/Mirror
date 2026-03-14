@@ -8,5 +8,7 @@
 
  Mirror a given shape
 
+**Value:** __GEOMETRY_INPUT__
+
 
 

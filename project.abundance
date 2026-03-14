@@ -35,8 +35,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0.0264,
-      "y": 0.16,
+      "x": 0.01815,
+      "y": 0.10999999999999999,
       "uniqueID": "id-2034",
       "name": "Shape",
       "type": "geometry"
@@ -121,8 +121,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0.0264,
-      "y": 0.256,
+      "x": 0.01815,
+      "y": 0.176,
       "uniqueID": "id-2075",
       "name": "Pivot",
       "type": "number"
@@ -198,8 +198,7 @@
         },
         {
           "name": "plane",
-          "ioValue": "X",
-          "currentEquation": "X"
+          "ioValue": "X"
         }
       ],
       "codeVersion": 1,
@@ -207,8 +206,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0.0264,
-      "y": 0.352,
+      "x": 0.01815,
+      "y": 0.242,
       "uniqueID": "id-2130",
       "name": "Plane",
       "type": "string"
